@@ -23,14 +23,3 @@ https://www.tinkercad.com/things/9jd9dNxVMvA-display-de-7-segmentos-anodo-comum?
 
 ## 💻 Código
 O código está disponível neste repositório e foi estruturado com função dedicada para escrita no display, facilitando reutilização e manutenção.
-
-## 📈 Possíveis melhorias
-- Controle do display por botões  
-- Integração com sensores (ex: temperatura)  
-- Exibição de valores dinâmicos  
-- Uso de múltiplos displays (contadores maiores)  
-
----
-
-## 🎯 Objetivo do projeto
-Praticar controle de saídas digitais, lógica de programação e integração entre software e hardware utilizando Arduino.
